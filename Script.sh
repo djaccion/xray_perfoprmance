@@ -1,5 +1,4 @@
 #!/bin/bash
-
 export JMETER_HOME=/opt/apache-jmeter-5.4.3 
 export PATH=$JMETER_HOME/bin:$PATH
 
