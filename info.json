@@ -1,0 +1,17 @@
+{
+     "fields": {
+        "project": {
+            "id": "10013",
+            "key": "DB"
+        },
+       "summary": "JMeter performance results",
+      "description": "Build URL:  ${BUILD_URL}.\n\nDetailed dashboard report at: ${JOB_URL}ws/dashboard/index.html\n\n*Aggregate results summary*\n\n ${AGGREGATE_TABLE}\n",
+        "issuetype": {
+            "name": "Test Execution"
+        }
+    },
+
+    "xrayFields": {
+        "testPlanKey": "DB-2"
+    }
+}
